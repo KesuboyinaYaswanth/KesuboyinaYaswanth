@@ -12,6 +12,10 @@ Machine learning enthusiast with a strong foundation in mathematics, data struct
 ![](https://streak-stats.demolab.com/?user=KesuboyinaYaswanth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KesuboyinaYaswanth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## LeetCode Stats
+
+![LeetCode Stats](./metrics.plugin.leetcode.svg)
+
 ---
 [![](https://komarev.com/ghpvc/?username=KesuboyinaYaswanth&icon=0&color=0)](https://visitcount.itsvg.in)
 
