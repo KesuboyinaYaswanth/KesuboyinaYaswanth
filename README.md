@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am studying in GayatriVidyaParishad college of Engineering<br>I am Interested in DSA, Competitive Programming, Machine Learning.<br>I am currently learning about AI and AI models.<br>I am interested in doing projects.
+# Yaswanth_Kesuboyina:
+Machine learning enthusiast with a strong foundation in mathematics, data structures, and algorithms. Focused on building efficient and scalable solutions using ML and neural networks, while applying solid problem-solving skills from DSA . Comfortable translating mathematical concepts into practical models and optimizing performance for real-world applications. Actively solving problems and exploring advanced topics to deepen understanding of AI systems and algorithmic thinking.
 
 
 ## 🌐 Socials:
