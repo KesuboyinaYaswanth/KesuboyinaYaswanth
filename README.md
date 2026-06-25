@@ -1,3 +1,7 @@
+![Demo Screenshot](img1.png)
+
+
+
 # Yaswanth_Kesuboyina
 Machine learning enthusiast with a strong foundation in mathematics, data structures, and algorithms. Focused on building efficient and scalable solutions using ML and neural networks, while applying solid problem-solving skills from DSA . Comfortable translating mathematical concepts into practical models and optimizing performance for real-world applications. Actively solving problems and exploring advanced topics to deepen understanding of AI systems and algorithmic thinking.
 
