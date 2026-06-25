@@ -1,6 +1,14 @@
 
-<img src="img1.png" alt="Demo Screenshot" width="500"> ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YaswanthKesuboyina?theme=dark&font=Zen%20Maru%20Gothic&ext=contest)
+<table>
+  <tr>
+    <td align="center">
+      <img src="img1.png" width="300" alt="Profile Image">
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/YaswanthKesuboyina?theme=dark&font=Zen%20Maru%20Gothic&ext=contest" width="450" alt="LeetCode Stats">
+    </td>
+  </tr>
+</table>
 
 
 
