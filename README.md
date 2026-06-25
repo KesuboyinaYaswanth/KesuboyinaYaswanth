@@ -1,5 +1,6 @@
 
-<img src="img1.png" alt="Demo Screenshot" width="600">
+<img src="img1.png" alt="Demo Screenshot" width="500"> ## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/YaswanthKesuboyina?theme=dark&font=Zen%20Maru%20Gothic&ext=contest)
 
 
 
