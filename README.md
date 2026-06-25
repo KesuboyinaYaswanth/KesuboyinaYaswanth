@@ -1,4 +1,4 @@
-![Demo Screenshot](img1.png)
+<img src="images/demo.png" alt="Demo Screenshot" width="600">
 
 
 
