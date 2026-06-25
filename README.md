@@ -16,7 +16,7 @@ Machine learning enthusiast with a strong foundation in mathematics, data struct
 
 ![LeetCode Stats](./metrics.plugin.leetcode.svg)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YaswanthKesuboyina?theme=light&font=Noto%20Sans%20Gurmukhi)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YaswanthKesuboyina?theme=dark&font=Zen%20Maru%20Gothic&ext=contest)
 
 ---
 [![](https://komarev.com/ghpvc/?username=KesuboyinaYaswanth&icon=0&color=0)](https://visitcount.itsvg.in)
