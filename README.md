@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="img1.png" width="600" alt="Profile Image">
+      <img src="img2.png" width="600" alt="Profile Image">
     </td>
     <td align="center">
       <img src="https://leetcard.jacoblin.cool/YaswanthKesuboyina?theme=dark&font=Zen%20Maru%20Gothic&ext=contest" width="450" alt="LeetCode Stats">
