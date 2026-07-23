@@ -5,7 +5,7 @@
       <img src="img3.png" width="600" alt="Profile Image">
     </td>
     <td align="center">
-      <img src="g1.gif" width="400" alt="Demo GIF">
+      <img src="g1.gif" width="500" alt="Demo GIF">
     </td>
   </tr>
 </table>
